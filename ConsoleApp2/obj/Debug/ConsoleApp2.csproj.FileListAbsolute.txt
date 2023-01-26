@@ -1,0 +1,8 @@
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+J:\Основы алгоритмизации\Классы\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
